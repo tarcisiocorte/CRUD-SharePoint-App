@@ -1,0 +1,1 @@
+bin\Debug\TCCP.SharePoint.TestApp.wsp

@@ -1,0 +1,3 @@
+c:\users\tarci\documents\visual studio 2012\Projects\TCCP.SharePoint.TestApp\TCCP.SharePoint.TestApp\bin\Debug\TCCP.SharePoint.TestApp.pdb
+c:\users\tarci\documents\visual studio 2012\Projects\TCCP.SharePoint.TestApp\TCCP.SharePoint.TestApp\obj\Debug\TCCP.SharePoint.TestApp.dll
+c:\users\tarci\documents\visual studio 2012\Projects\TCCP.SharePoint.TestApp\TCCP.SharePoint.TestApp\obj\Debug\TCCP.SharePoint.TestApp.pdb

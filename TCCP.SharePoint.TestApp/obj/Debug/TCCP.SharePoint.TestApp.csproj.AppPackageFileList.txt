@@ -1,0 +1,1 @@
+c:\users\tarci\documents\visual studio 2012\Projects\TCCP.SharePoint.TestApp\TCCP.SharePoint.TestApp\bin\Debug\app.publish\1.0.0.0\TCCP.SharePoint.TestApp.app
