@@ -51,17 +51,17 @@ function addListItem() {
     list = site.get_lists().getByTitle("List");
     context.load(list);
 
-    var firstName = $("#txtFirstNameNew").val();
-    var lastName = $("#txtLastNameNew").val();
-    var email = $("#txtEmailIDNew").val();
+    var firstName = $("#txtFirstnameNewItem").val();
+    var lastName = $("#txtLastNameNewItem").val();
+    var email = $("#txtEmailIDNewItem").val();
     var city = $("#listCities option:selected").text();
 
     var salutation = $("#Select1 option:selected").text();
     var sex = $('input[name="sex"]:checked').val();
-    var tel = $("#txtTelephoneNew").val();
-    var mobile = $("#txtMobileNew").val();
+    var tel = $("#txtTelephoneNewItem").val();
+    var mobile = $("#txtMobileNewItem").val();
 
-    var dateofbirth = $('#txtDateOfBirthNew').datepicker({ dateFormat: 'dd/mm/yy' }).val();
+    var dateofbirth = $('#txtDateOfBirthNewItem').datepicker({ dateFormat: 'dd/mm/yy' }).val();
 
 
     var listItemCreationInfo = new SP.ListItemCreationInformation();
